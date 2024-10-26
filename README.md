@@ -19,7 +19,7 @@ Tips and guide, what to do before you buy a domain name
       
 - Search for the term you want to register in search engines.
 - Ensure the domain will be registered in your name.
-
+- Buy and enjoy your domain ^^
 ## Vendors (2024)
 - [Cloudflare](https://www.cloudflare.com/products/registrar/)
 - [Namecheap](https://www.namecheap.com/)
