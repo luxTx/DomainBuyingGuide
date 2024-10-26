@@ -18,6 +18,7 @@ Tips and guide, what to do before you buy a domain name
     - [DMCA](https://www.dmca.com/Whois) -  Domain name or URL ownership information of an infringing website
       
 - Search for the term you want to register in search engines.
+## Domain buying
 - Ensure the domain will be registered in your name.
 - Buy and enjoy your domain ^^
 ## Vendors (2024)
