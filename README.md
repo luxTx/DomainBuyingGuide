@@ -3,8 +3,8 @@ Tips and guide, what to do before you buy a domain name
 
 ## Tips before buying
 - Check for fraudulent activity/reputation before the purchase date if you want the domain to be indexed by search engines.
-    - [What is a search engine penaltie?](https://webmasters.stackexchange.com/questions/99632/a-page-has-been-removed-from-google-due-to-dmca-are-its-inbound-links-still-val/99701#99701)
-    - [Google transparency report](https://transparencyreport.google.com/) - Find out about previous activities of your domain name
+    - [What is a search engine penalty?](https://webmasters.stackexchange.com/questions/99632/a-page-has-been-removed-from-google-due-to-dmca-are-its-inbound-links-still-val/99701#99701)
+    - [Google transparency report](https://transparencyreport.google.com/) - Find out about the previous activities of your domain name
     - [WebArchiveOrg](https://wayback.archive.org) - Explore web pages saved over time
 
 - Search for trade marks. To avoid possible trouble later.
